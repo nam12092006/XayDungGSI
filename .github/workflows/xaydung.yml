@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: Link ROM
+  ROM_URL: https://doc-00-94-docs.googleusercontent.com/docs/securesc/5e3j9q9a4805tuc1sesirq2m9gkpoa7g/7steupsn065r5fdp1h8okctrg6rmhlom/1603200600000/13927621356226197910/01908713834688017028Z/1xNFWhETedO0KIgs_CvX01JaJrQGI5SqB?e=download&nonce=kbh0ikkrq59s4&user=01908713834688017028Z&hash=bbamp0qrd62od8mrrv2nirqimn471o6d
   ROM_NAME: Generic
   BUILD_AB: true
   BUILD_Aonly: false
